@@ -185,5 +185,5 @@ def send_account(call):
 
 if __name__ == "__main__":
     bot.remove_webhook()
-    bot.set_webhook(url="https://cr-.onrender.com/" + bot.token)  # Replace with your server URL
+    bot.set_webhook(url="https://loda-6opp.onrender.com/" + bot.token)  # Replace with your server URL
     app.run(host="0.0.0.0", port=5000)
